@@ -18,8 +18,10 @@ GO
 
 ## BUILD
 
+```
 cd wsl-java-sql-example
 mvn install
+```
 
 ## RUN
 
