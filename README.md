@@ -6,8 +6,7 @@ Example Java app to troubleshoot WSL SQL Server connectivity issues
 * WSL w/ Ubuntu 16.04 
 * sudo apt-get install openjdk-8-jdk maven
 * SQL Server 
-... The code assumes an AlwaysON AG with multisubnetfailover=true. You can change this by editing the connectString in 
-... src/main/java/wsl_java_sql_example/App.java:58
+   The code assumes an AlwaysON AG with multisubnetfailover=true. You can change this by editing the connectString in src/main/java/wsl_java_sql_example/App.java:58
 
 * SQL Login
 ```
